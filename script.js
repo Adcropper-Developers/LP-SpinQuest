@@ -45,6 +45,7 @@ document.addEventListener("mousemove", (e) => {
 // Carousel data
 const carouselData = [
   { imgUrl: "./assets/le-pharoh.png" },
+  { imgUrl: "./assets/crapless_bubble.png" },
   { imgUrl: "./assets/le-bandit.png" },
   { imgUrl: "./assets/snow-slingers.png" },
   { imgUrl: "./assets/wanted.png" },
@@ -52,7 +53,6 @@ const carouselData = [
   { imgUrl: "./assets/coin.png" },
   { imgUrl: "./assets/2-wild-2-die.png" },
   { imgUrl: "./assets/crazy_time.png" },
-  { imgUrl: "./assets/duck_hunters.png" },
   { imgUrl: "./assets/monopoly.png" },
   { imgUrl: "./assets/aztec-clusters.png" },
   { imgUrl: "./assets/donny-dough.png" },
