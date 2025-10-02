@@ -1178,6 +1178,7 @@ p b {
     height: 100%;
     object-fit: cover;
 }
+
 /* Position classes */
 .position-0 {
     -webkit-transform: translateX(0px) rotateY(0deg) scale(1.1);
@@ -1417,7 +1418,7 @@ p b {
 }
 
 .section3 .imageContainer .men {
-    width: 115%;
+    width: 81%;
     top: 42%;
 }
 
@@ -2651,5 +2652,12 @@ footer {
 
     .footerBottom a {
         font-size: 2rem;
+    }
+}
+
+@media only screen and (max-width:576px) {
+    .section3 .imageContainer .men {
+        width: 100%;
+        top: 26%;
     }
 }
