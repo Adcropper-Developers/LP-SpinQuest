@@ -1418,8 +1418,8 @@ p b {
 }
 
 .section3 .imageContainer .men {
-    width: 81%;
-    top: 42%;
+    width: 100%;
+    top: 60.5%;
 }
 
 .section3 .imageContainer .section3-shine {
@@ -2657,7 +2657,7 @@ footer {
 
 @media only screen and (max-width:576px) {
     .section3 .imageContainer .men {
-        width: 100%;
-        top: 26%;
+        width: 155%;
+        top: 27%;
     }
 }
